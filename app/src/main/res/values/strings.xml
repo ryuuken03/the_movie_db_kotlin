@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="token">
+        eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZDhiZTZlOTE5YTdiMjMwMmM5MjlhYzg3NDIwODM0MSIsInN1YiI6IjY1MmY5MDI2YTgwMjM2MDBmZDJkODdhNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ap13eLyCoYdiBdoxl_NC4zIMqqwDoKoBfuoYBHNWdU8
+    </string>
+    <string name="error_rto">Permintaan time out!</string>
+    <string name="error_server">Gagal terhubung ke server API!</string>
+</resources>
